@@ -1,0 +1,12 @@
+datasets
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-ollama
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+gradio
+torch
+torchvision
+torchaudio
